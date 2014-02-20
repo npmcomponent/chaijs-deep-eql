@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [chaijs/deep-eql](http://github.com/chaijs/deep-eql). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/chaijs-deep-eql`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # deep-eql [![Build Status](https://travis-ci.org/chaijs/deep-eql.png?branch=master)](https://travis-ci.org/chaijs/deep-eql) [![Coverage Status](https://coveralls.io/repos/chaijs/deep-eql/badge.png?branch=master)](https://coveralls.io/r/chaijs/deep-eql?branch=master)
 
 > Improved deep equality testing for Node.js and the browser.
